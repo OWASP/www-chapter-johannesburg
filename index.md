@@ -7,7 +7,7 @@ level: 0
 
 region: Africa
 
-auto-migrated: 1
+auto-migrated: 0
 
 ---
 
@@ -25,13 +25,7 @@ Meeting Sponsors
 ----------------
 The following is the list of organisations who have generously provided us with space for OWASP Johannesburg chapter meetings:
 
-
-<table cellpadding="10" cellspacing="0" border="0">
-<tr>
-<td>
-<img src="assets/images/Nedbank.png" alt="Nedbank Group Technology"/>
-
-</table>
+![Nedbank Group Technology](assets/images/Nedbank.png)
 
 Speaking at OWASP Johannesburg Chapter Events
 ---------------------------------------
