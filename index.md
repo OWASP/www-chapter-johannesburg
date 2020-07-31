@@ -8,6 +8,9 @@ level: 0
 region: Africa
 
 auto-migrated: 0
+meetup-group: OWASP-Johannesburg-Chapter
+country: South Africa
+postal-code: 
 
 ---
 
