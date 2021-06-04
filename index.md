@@ -42,3 +42,5 @@ Next Meeting/Event(s)
 OWASP JHB Chapter meetings are posted on our MeetUp Page:
 
 Please visit [Meetup.com](https://www.meetup.com/OWASP-Johannesburg-Chapter/)
+
+{% include chapter_events.html group=page.meetup-group %} 
