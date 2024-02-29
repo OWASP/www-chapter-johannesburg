@@ -16,7 +16,7 @@ postal-code:
 
 OWASP Johannesburg
 -------------
-Welcome to the Johannesburg chapter homepage. The chapter board is <a href="mailto:tmatima@owasp.org">TK Matima</a> and <a href="mailto:sakhi.louw@owasp.org">Sakhi Louw</a>. Follow chapter news on | [Twitter](https://twitter.com/OWASP_JHB) | [Meetup.com](https://www.meetup.com/OWASP-Johannesburg-Chapter/)
+Welcome to the Johannesburg chapter homepage.  
 
 
 Chapter Sponsors
@@ -28,7 +28,7 @@ Meeting Sponsors
 ----------------
 The following is the list of organisations who have generously provided us with space for OWASP Johannesburg chapter meetings:
 
-![Nedbank Group Technology](assets/images/Nedbank.png)
+
 
 Speaking at OWASP Johannesburg Chapter Events
 ---------------------------------------
@@ -39,8 +39,6 @@ Call For Speakers is open - if you would like to present a talk on Application S
 
 Next Meeting/Event(s)
 ---------------------
-OWASP JHB Chapter meetings are posted on our MeetUp Page:
 
-Please visit [Meetup.com](https://www.meetup.com/OWASP-Johannesburg-Chapter/)
 
 {% include chapter_events.html group=page.meetup-group %} 
