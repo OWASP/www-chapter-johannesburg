@@ -1,0 +1,23 @@
+leaders:
+  - name: Lesego Ndlovu
+    email: lesego.ndlovu@owasp.org
+  - name: Simon Mokgotlhoa
+    email: simon.mokgotlhoa@owasp.org
+location:
+  country: South Africa
+  country_code: ZA
+  region: Gauteng
+  city: Johannesburg
+  latitude: -26.205
+  longitude: 28.049722
+meetup_group: OWASP-Johannesburg-Chapter
+name: OWASP Johannesburg
+repositories:
+  - name: www-chapter-johannesburg
+    url: https://github.com/OWASP/www-chapter-johannesburg
+    description: OWASP Foundation Web Repository
+tags:
+  - Johannesburg
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-johannesburg
